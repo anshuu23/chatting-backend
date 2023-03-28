@@ -1,7 +1,7 @@
 const websocket =require('ws');
 
 const wss= new websocket.Server({
-    port:3009
+    port:1000
 });
 
 
